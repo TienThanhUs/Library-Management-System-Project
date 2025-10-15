@@ -1,0 +1,55 @@
+************SACH THU 1************
+ISBN:111
+Ten sach:Dac nhan tam
+Tac gia:Dale Carnegie
+Nha xuat ban:hoa mai
+Nam xuat ban:2007
+The loai:Tam ly hoc
+Gia(VND):80000.00 VND
+So quyen:15
+**********************************
+
+************SACH THU 2************
+ISBN:222
+Ten sach:Harry Potter va Hon da Phu thuy
+Tac gia:J.K. Rowling
+Nha xuat ban:kim dong
+Nam xuat ban:2010
+The loai:Vien tuong
+Gia(VND):150000.00 VND
+So quyen:16
+**********************************
+
+************SACH THU 3************
+ISBN:333
+Ten sach:Mat Biec
+Tac gia:Nguyen Nhat Anh
+Nha xuat ban:tre
+Nam xuat ban:2018
+The loai:Tieu thuyet
+Gia(VND):120000.00 VND
+So quyen:12
+**********************************
+
+************SACH THU 4************
+ISBN:1
+Ten sach:1
+Tac gia:1
+Nha xuat ban:1
+Nam xuat ban:1
+The loai:1
+Gia(VND):1.00 VND
+So quyen:2
+**********************************
+
+************SACH THU 5************
+ISBN:3
+Ten sach:3
+Tac gia:3
+Nha xuat ban:3
+Nam xuat ban:3
+The loai:3
+Gia(VND):3.00 VND
+So quyen:3
+**********************************
+

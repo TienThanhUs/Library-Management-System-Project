@@ -1,0 +1,45 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/macos/Desktop/DO_AN-24120450/output/LIBRARY_management'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _menu_chinh, symObjAddr: 0x0, symBinAddr: 0x100001150, symSize: 0xA0 }
+  - { offsetInCU: 0x72, offset: 0x72, size: 0x8, addend: 0x0, symName: _menu_chinh, symObjAddr: 0x0, symBinAddr: 0x100001150, symSize: 0xA0 }
+  - { offsetInCU: 0x87, offset: 0x87, size: 0x8, addend: 0x0, symName: _menu_quan_li_doc_gia, symObjAddr: 0xA0, symBinAddr: 0x1000011F0, symSize: 0xC0 }
+  - { offsetInCU: 0x9C, offset: 0x9C, size: 0x8, addend: 0x0, symName: _menu_quan_li_sach, symObjAddr: 0x160, symBinAddr: 0x1000012B0, symSize: 0xC0 }
+  - { offsetInCU: 0xB1, offset: 0xB1, size: 0x8, addend: 0x0, symName: _doc_ds_doc_gia_tu_file, symObjAddr: 0x220, symBinAddr: 0x100001370, symSize: 0x400 }
+  - { offsetInCU: 0x14D, offset: 0x14D, size: 0x8, addend: 0x0, symName: _ghi_tt_vao_file, symObjAddr: 0x620, symBinAddr: 0x100001770, symSize: 0x2C0 }
+  - { offsetInCU: 0x1A9, offset: 0x1A9, size: 0x8, addend: 0x0, symName: _xem_ds_doc_gia, symObjAddr: 0x8E0, symBinAddr: 0x100001A30, symSize: 0x2D0 }
+  - { offsetInCU: 0x1F7, offset: 0x1F7, size: 0x8, addend: 0x0, symName: _append_tt_vao_file, symObjAddr: 0xBB0, symBinAddr: 0x100001D00, symSize: 0x2D0 }
+  - { offsetInCU: 0x23B, offset: 0x23B, size: 0x8, addend: 0x0, symName: _check_doc_gia, symObjAddr: 0xE80, symBinAddr: 0x100001FD0, symSize: 0x70 }
+  - { offsetInCU: 0x2A0, offset: 0x2A0, size: 0x8, addend: 0x0, symName: _check_ma_doc_gia, symObjAddr: 0xEF0, symBinAddr: 0x100002040, symSize: 0x70 }
+  - { offsetInCU: 0x305, offset: 0x305, size: 0x8, addend: 0x0, symName: _them_doc_gia, symObjAddr: 0xF60, symBinAddr: 0x1000020B0, symSize: 0xB80 }
+  - { offsetInCU: 0x367, offset: 0x367, size: 0x8, addend: 0x0, symName: _chinh_sua_tt_doc_gia, symObjAddr: 0x1AE0, symBinAddr: 0x100002C30, symSize: 0x940 }
+  - { offsetInCU: 0x412, offset: 0x412, size: 0x8, addend: 0x0, symName: _xoa_sinh_vien, symObjAddr: 0x2420, symBinAddr: 0x100003570, symSize: 0x160 }
+  - { offsetInCU: 0x4AE, offset: 0x4AE, size: 0x8, addend: 0x0, symName: _tim_kiem_theo_cccd, symObjAddr: 0x2580, symBinAddr: 0x1000036D0, symSize: 0x2C0 }
+  - { offsetInCU: 0x50F, offset: 0x50F, size: 0x8, addend: 0x0, symName: _tim_kiem_doc_gia_theo_ten, symObjAddr: 0x2840, symBinAddr: 0x100003990, symSize: 0x310 }
+  - { offsetInCU: 0x583, offset: 0x583, size: 0x8, addend: 0x0, symName: _check_sach_thu_vien, symObjAddr: 0x2B50, symBinAddr: 0x100003CA0, symSize: 0x70 }
+  - { offsetInCU: 0x5E8, offset: 0x5E8, size: 0x8, addend: 0x0, symName: _xem_danh_sach_sach, symObjAddr: 0x2BC0, symBinAddr: 0x100003D10, symSize: 0x1F0 }
+  - { offsetInCU: 0x63A, offset: 0x63A, size: 0x8, addend: 0x0, symName: _themsach, symObjAddr: 0x2DB0, symBinAddr: 0x100003F00, symSize: 0x710 }
+  - { offsetInCU: 0x67E, offset: 0x67E, size: 0x8, addend: 0x0, symName: _ghi_de_tt_sach, symObjAddr: 0x34C0, symBinAddr: 0x100004610, symSize: 0x1D0 }
+  - { offsetInCU: 0x6DF, offset: 0x6DF, size: 0x8, addend: 0x0, symName: _chinhsuathongtinsach, symObjAddr: 0x3690, symBinAddr: 0x1000047E0, symSize: 0x510 }
+  - { offsetInCU: 0x75D, offset: 0x75D, size: 0x8, addend: 0x0, symName: _xoasach, symObjAddr: 0x3BA0, symBinAddr: 0x100004CF0, symSize: 0x120 }
+  - { offsetInCU: 0x7DB, offset: 0x7DB, size: 0x8, addend: 0x0, symName: _tim_kiem_sach_theo_isbn, symObjAddr: 0x3CC0, symBinAddr: 0x100004E10, symSize: 0x1C0 }
+  - { offsetInCU: 0x83C, offset: 0x83C, size: 0x8, addend: 0x0, symName: _tim_kiem_sach_theo_ten, symObjAddr: 0x3E80, symBinAddr: 0x100004FD0, symSize: 0x210 }
+  - { offsetInCU: 0x8A1, offset: 0x8A1, size: 0x8, addend: 0x0, symName: _doc_du_lieu_sach_tu_file, symObjAddr: 0x4090, symBinAddr: 0x1000051E0, symSize: 0x430 }
+  - { offsetInCU: 0x908, offset: 0x908, size: 0x8, addend: 0x0, symName: _tim_index_sach_va_cap_nhat_sl_sach, symObjAddr: 0x44C0, symBinAddr: 0x100005610, symSize: 0xF0 }
+  - { offsetInCU: 0x96D, offset: 0x96D, size: 0x8, addend: 0x0, symName: _lap_phieu_muon, symObjAddr: 0x45B0, symBinAddr: 0x100005700, symSize: 0x930 }
+  - { offsetInCU: 0xADA, offset: 0xADA, size: 0x8, addend: 0x0, symName: _doc_phieu_muon_tu_file, symObjAddr: 0x4EE0, symBinAddr: 0x100006030, symSize: 0x300 }
+  - { offsetInCU: 0xB4F, offset: 0xB4F, size: 0x8, addend: 0x0, symName: _tim_isbn_va_tra_sach, symObjAddr: 0x51E0, symBinAddr: 0x100006330, symSize: 0x80 }
+  - { offsetInCU: 0xBB0, offset: 0xBB0, size: 0x8, addend: 0x0, symName: _check_va_xoa_phieu_muon, symObjAddr: 0x5260, symBinAddr: 0x1000063B0, symSize: 0x80 }
+  - { offsetInCU: 0xC11, offset: 0xC11, size: 0x8, addend: 0x0, symName: _check_ma_doc_gia_phieu_muon, symObjAddr: 0x52E0, symBinAddr: 0x100006430, symSize: 0x70 }
+  - { offsetInCU: 0xC76, offset: 0xC76, size: 0x8, addend: 0x0, symName: _isLeapYear, symObjAddr: 0x5350, symBinAddr: 0x1000064A0, symSize: 0x60 }
+  - { offsetInCU: 0xCA0, offset: 0xCA0, size: 0x8, addend: 0x0, symName: _tinhSoNgay, symObjAddr: 0x53B0, symBinAddr: 0x100006500, symSize: 0x1C0 }
+  - { offsetInCU: 0xD86, offset: 0xD86, size: 0x8, addend: 0x0, symName: _tim_index_va_tra_sach, symObjAddr: 0x5570, symBinAddr: 0x1000066C0, symSize: 0x80 }
+  - { offsetInCU: 0xDE7, offset: 0xDE7, size: 0x8, addend: 0x0, symName: _xoa_sach_bi_mat, symObjAddr: 0x55F0, symBinAddr: 0x100006740, symSize: 0xA0 }
+  - { offsetInCU: 0xE48, offset: 0xE48, size: 0x8, addend: 0x0, symName: _lap_phieu_tra, symObjAddr: 0x5690, symBinAddr: 0x1000067E0, symSize: 0x620 }
+  - { offsetInCU: 0xFC3, offset: 0xFC3, size: 0x8, addend: 0x0, symName: _thong_ke_doc_gia, symObjAddr: 0x5CB0, symBinAddr: 0x100006E00, symSize: 0x280 }
+  - { offsetInCU: 0x10BE, offset: 0x10BE, size: 0x8, addend: 0x0, symName: _thong_ke_sach, symObjAddr: 0x5F30, symBinAddr: 0x100007080, symSize: 0x270 }
+  - { offsetInCU: 0x11B1, offset: 0x11B1, size: 0x8, addend: 0x0, symName: _thong_ke_sach_dang_duoc_muon, symObjAddr: 0x61A0, symBinAddr: 0x1000072F0, symSize: 0x150 }
+  - { offsetInCU: 0x1278, offset: 0x1278, size: 0x8, addend: 0x0, symName: _thong_ke_phieu_muon, symObjAddr: 0x62F0, symBinAddr: 0x100007440, symSize: 0x220 }
+  - { offsetInCU: 0x1363, offset: 0x1363, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x6510, symBinAddr: 0x100007660, symSize: 0x670 }
+...

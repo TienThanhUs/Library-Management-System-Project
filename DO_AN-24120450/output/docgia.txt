@@ -1,0 +1,44 @@
++-------------------Thong tin doc gia thu 1----------------------------+
+Ma doc gia: 123
+Ho va ten: Nguyen Van A
+CMND: 123456789
+Ngay thang nam sinh: 1/1/2000
+Gioi tinh: Nam
+Email: nguyenvana@gmail.com
+Dia chi: 123 Duong ABC, Thanh pho HCM
+Ngay lap the: 1/1/2023
+Ngay het han the: 1/1/2025
+-----------------------------------------------------------------------
++-------------------Thong tin doc gia thu 2----------------------------+
+Ma doc gia: 456
+Ho va ten: Tran Thi B
+CMND: 987654321
+Ngay thang nam sinh: 2/2/2001
+Gioi tinh: Nu
+Email: tranthib@yahoo.com
+Dia chi: 456 Duong XYZ, Ha Noi
+Ngay lap the: 2/2/2023
+Ngay het han the: 2/2/2025
+-----------------------------------------------------------------------
++-------------------Thong tin doc gia thu 3----------------------------+
+Ma doc gia: 789
+Ho va ten: Pham Thi D
+CMND: 246813579
+Ngay thang nam sinh: 4/4/2002
+Gioi tinh: Nu
+Email: phamthid@hotmail.com
+Dia chi: 321 Duong GHI, Hai Phong
+Ngay lap the: 4/4/2023
+Ngay het han the: 4/4/2025
+-----------------------------------------------------------------------
++-------------------Thong tin doc gia thu 4----------------------------+
+Ho va ten: 1
+Ma doc gia: 1
+CMND: 1
+Ngay thang nam sinh: 1/1/1
+Gioi tinh: Nam
+Email: 1
+Dia chi: 1
+Ngay lap the: 1/1/1
+Ngay het han the: 1/1/5
+-----------------------------------------------------------------------

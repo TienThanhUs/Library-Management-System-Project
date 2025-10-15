@@ -1,0 +1,21 @@
+------Phieu thu 1------
+Ma doc gia: 123
+Ngay muon :12/12/2024
+Ngay tra du kien:19/12/2024
+Danh sach sach doc gia da muon:
+111 222 333
+------------------------------
+------Phieu thu 2------
+Ma doc gia: 456
+Ngay muon :10/12/2024
+Ngay tra du kien:17/12/2024
+Danh sach sach doc gia da muon:
+222
+------------------------------
+------Phieu thu 3------
+Ma doc gia: 789
+Ngay muon :05/12/2024
+Ngay tra du kien:12/12/2024
+Danh sach sach doc gia da muon:
+222 33
+------------------------------
